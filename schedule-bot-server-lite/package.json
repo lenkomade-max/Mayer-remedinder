@@ -1,5 +1,5 @@
 {
-  "name": "schedule-bot-server",
+  "name": "schedule-bot-server-lite",
   "private": true,
   "type": "module",
   "dependencies": {
